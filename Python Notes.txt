@@ -26,7 +26,7 @@ Features of Python
 
 Data Types
 1.Number - int, float(decimal),complex
-2.String - group of character - "ESS Institute:"
+2.String - group of character - "ESS Institute:" - immutable - which cannot be changed
 3.Boolean - True and False
 4.None Type - blank
 
