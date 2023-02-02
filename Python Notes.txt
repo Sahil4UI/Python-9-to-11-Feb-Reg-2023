@@ -1,0 +1,39 @@
+What is Python?
+Python is a high level general purpose programming language
+High Level - python - syntax /code - simple -  easy to learn and implement
+General Purpose :
+1.software Development
+2.Web Development
+3.Game Development
+
+4. AI -  Artificial Intelligence - Machine Learning , Deep Learning , Internet of Things
+MAchine Learning -  predictive analysis - probability - Weather forcasting
+
+
+1991 - Guido Vann Rossum - Monty's Python flying circus
+Python is succcessor of ABC Language
+
+
+Features of Python
+1.High Level
+2.General Purpose
+3.Open Source - freely available
+4.Interpreted Programming
+	interpreter - it excutes the program in line by line style 
+	compiler - it executes the whole program at once.
+5.Python is a loosely typed / dynamically typed programming
+
+
+Data Types
+1.Number - int, float(decimal),complex
+2.String - group of character - "ESS Institute:"
+3.Boolean - True and False
+4.None Type - blank
+
+x = 5
+Rules to Form Variables
+1.variable name cannot be started with number or any special character(except _)
+2.variable name cannot contains special characer(except_) or spaces
+
+Operators - 
+1.Arithmetical Operators +,-,/,//,*,**
