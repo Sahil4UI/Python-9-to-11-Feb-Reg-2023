@@ -37,3 +37,12 @@ Rules to Form Variables
 
 Operators - 
 1.Arithmetical Operators +,-,/,//,*,**
+2.Assignment Operator +=,-=,*=,/=,%=
+3.Comparison Operator : >,<,>=,<=,!=(not equals to),==(Equality Operator)
+4.Logical Operator : and , or , not
+
+
+Conditional Statement :
+0. If -  1 condition
+1. If-else - 2 condition
+2. ladder if else - >2

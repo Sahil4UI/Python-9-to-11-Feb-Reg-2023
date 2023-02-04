@@ -1,0 +1,3 @@
+Q1. Take a no as input and check whether it is even or odd.
+Q2. Find the Reverse of Number.
+Q3. Take a number as input and check whether it is prime or not.
